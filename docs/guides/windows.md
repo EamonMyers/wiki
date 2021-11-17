@@ -2,7 +2,7 @@
 
 This page is a guide on getting Windows and Linux both installed. Secure Boot Must be disabled from macOS recovery. If you want to be able to choose from macOS, Windows, or Linux in the Startup Manager (the menu you get by holding ⌥ key), goto 'Using seperate EFI partitions'. If you just want to select between Linux and Windows in the GRUB bootloader, goto 'Using the same EFI partition'.
 
-The simplist way to triple boot is to install Windows first, and install linux on the same EFI partition, so that the Windows option in Startup Manager will let you pick Linux or Windows. To do that, follow the first set of instructions here.
+The simplest way to triple boot is to install Windows first, and install linux on the same EFI partition, so that the Windows option in Startup Manager will let you pick Linux or Windows. To do that, follow the first set of instructions here.
 
 # Using the same EFI partition
 
